@@ -7,4 +7,4 @@
 
 ## :computer: 操作系统
 
-- [Linux](https://github.com/CyC2018/CS-Notes/blob/master/notes/Linux.md)
+- [Linux](https://github.com/ck784101777/Linux-Note/blob/master/notes/Linux.md)
